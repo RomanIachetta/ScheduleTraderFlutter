@@ -5,3 +5,4 @@ just lib code
 
 ![](https://github.com/RomanIachetta/ScheduleTraderFlutter/blob/main/Images/Screenshot_1659593023.png =250x250)
 
+![test image size]<img src="[https://fullpath/assets/yourgif.gif](https://github.com/RomanIachetta/ScheduleTraderFlutter/blob/main/Images/Screenshot_1659593023.png)" width="400" height="790">

@@ -1,7 +1,7 @@
 # ScheduleTraderFlutter
-Trade shifts with people
+Trade shifts with people at specific company
 
-just lib code
+just lib code all done in flutter/Dart
 
 
 ## Start Screen
